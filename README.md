@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0132-palindrome-partitioning-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0402-remove-k-digits](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
