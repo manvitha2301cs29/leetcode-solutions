@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0239-sliding-window-maximum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0312-burst-balloons](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0735-asteroid-collision](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0312-burst-balloons](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
