@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0735-asteroid-collision](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
