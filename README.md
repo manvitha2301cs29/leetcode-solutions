@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -87,8 +89,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+## Depth-First Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
