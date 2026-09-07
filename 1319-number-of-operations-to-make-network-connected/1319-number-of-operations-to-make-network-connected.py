@@ -1,29 +1,29 @@
 class Solution:
     def makeConnected(self, n: int, connections: List[List[int]]) -> int:
-
-        if len(connections) < n - 1:
-            return -1
-
-        graph = [[] for _ in range(n)]
-
-        for u, v in connections:
-            graph[u].append(v)
-            graph[v].append(u)
-
-        visited = [False] * n
-
-        def dfs(node):
-            visited[node] = True
-
-            for nei in graph[node]:
-                if not visited[nei]:
-                    dfs(nei)
-
-        components = 0
-
+        c = len(connections)
+        if c < n-1 :
+            return -1 
+        # no of operations = no of components - 1 
+        # can do simple dfs to find components 
+        vis = set()
+        count = 0 
+        adj = [[] for i in range(n)]
+        for u,v in connections :
+            adj[u].append(v)
+            adj[v].append(u)
+        def dfs(i):
+            if i in vis :
+                return 
+            vis.add(i)
+            for j in adj[i]:
+                dfs(j)
         for i in range(n):
-            if not visited[i]:
-                components += 1
+            if i not in vis :
+                count += 1 
                 dfs(i)
+        return count -1 
+            
 
-        return components - 1
+       
+
+
