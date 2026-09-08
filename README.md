@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0735-asteroid-collision](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0901-online-stock-span) |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0778-swim-in-rising-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
