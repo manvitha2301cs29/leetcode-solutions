@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0735-asteroid-collision](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Breadth-First Search
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0229-majority-element-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bipartite Graph
@@ -202,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
