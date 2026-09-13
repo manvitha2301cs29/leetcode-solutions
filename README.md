@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
