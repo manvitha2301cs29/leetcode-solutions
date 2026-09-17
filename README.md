@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
