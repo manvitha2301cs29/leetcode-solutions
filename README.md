@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0055-jump-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Breadth-First Search
