@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0045-jump-game-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0229-majority-element-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
