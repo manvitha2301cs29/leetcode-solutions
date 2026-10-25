@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [1020-number-of-enclaves](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0778-swim-in-rising-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [1020-number-of-enclaves](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
