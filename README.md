@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -393,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
