@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Graph Coloring
 |  |
@@ -400,4 +402,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
