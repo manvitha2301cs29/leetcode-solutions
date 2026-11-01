@@ -16,7 +16,7 @@ class Solution:
         def solve(row):
             if row == n :
                 ans.append(["".join(board[i]) for i in range(n)])
-                return 
+                return  
             for col in range(n):
                 if isvalid(row,col):
                     board[row][col] = "Q"
@@ -27,11 +27,13 @@ class Solution:
                     d1.add(x)
                     d2.add(y)
                     solve(row+1)
+                    
                     board[row][col] = "."
                     r.remove(row)
                     c.remove(col)
                     d1.remove(x)
                     d2.remove(y)
+             
         solve(0)
         return ans 
             
