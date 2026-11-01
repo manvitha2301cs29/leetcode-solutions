@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0282-expression-add-operators](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## DP on Trees
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
