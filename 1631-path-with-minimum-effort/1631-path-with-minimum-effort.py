@@ -1,24 +1,33 @@
 class Solution:
-    def minimumEffortPath(self, heights: List[List[int]]) -> int:
-        direc = [(-1,0),(0,1),(0,-1),(1,0)]
+    def minimumEffortPath(self, heights: list[list[int]]) -> int:
         m = len(heights)
         n = len(heights[0])
-        heap = [(0,0,0)]
-        ans = float('inf')
+        if m ==1 and n ==1 :
+            return 0 
+        direc = [(-1,0),(0,-1),(0,1),(1,0)]
+        h = []
         vis = set()
-
-        while heap :
-            di , i,j = heapq.heappop(heap)
-            if (i,j) in vis :
+        heapq.heappush(h,(0,0,0))
+        
+        while h :
+            w , x , y = heapq.heappop(h)
+            if (x,y) in vis :
                 continue 
-            vis.add((i,j))
-            if i == m -1 and j == n -1 :
-                return di 
-            for dx , dy in direc :
-                ni , nj = i + dx , j + dy
-                if 0<= ni < m and 0<= nj < n and (ni,nj) not in vis:
-                    haha =  max(abs(heights[ni][nj] - heights[i][j]) , di)
-                   
-                    heapq.heappush(heap,(haha,ni,nj))
-        return -1 
+            vis.add((x,y))
             
+           
+            if x == m -1 and y == n -1 :
+                return w 
+            for dx , dy in direc :
+                nx = dx + x 
+                ny = dy + y 
+                if 0 <= nx < m and 0 <= ny < n and (nx,ny) not in vis:
+                    maxi = max(w,abs(heights[nx][ny] - heights[x][y]))
+                    heapq.heappush(h,(maxi,nx,ny))
+        return -1 
+
+
+
+
+
+
