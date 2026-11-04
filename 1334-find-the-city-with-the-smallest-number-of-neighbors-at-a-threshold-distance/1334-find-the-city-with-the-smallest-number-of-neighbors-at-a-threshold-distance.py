@@ -4,8 +4,8 @@ class Solution:
         for u,v,w in edges :
             mat[u][v] = w 
             mat[v][u] = w 
-        for i in range(n):
-            mat[i][i] = 0
+            mat[u][u] = 0 
+            mat[v][v] = 0 
         for k in range(n):
             for i in range(n):
                 for j in range(n):
@@ -16,7 +16,7 @@ class Solution:
         for i in range(n):
             count = 0 
             for j in range(n):
-                if mat[i][j] <= distanceThreshold :
+                if i!= j and  mat[i][j] <= distanceThreshold :
                     count += 1 
             if count <= mini :
                 mini = count 
