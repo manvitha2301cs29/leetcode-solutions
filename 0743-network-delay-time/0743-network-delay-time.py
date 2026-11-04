@@ -1,25 +1,27 @@
 class Solution:
-    def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        vis = [False]*(n +1)
-        ans = -1 
-        dist = [float('inf')]*(n +1)
-        dist[k] = dist[0] = 0 
-        pq = [(0,k)]
-        adj = [[] for i in range(n+1)]
+    def networkDelayTime(self, times: list[list[int]], n: int, k: int) -> int:
+        adj = [[] for i in range(n)]
+        s = k -1 
         for u,v,w in times :
-            adj[u].append((v,w))
-        while pq :
-            di , node = heapq.heappop(pq)
-            if vis[node] :
+            adj[u-1].append((v-1,w))
+        dist = [float('inf')  for i in range(n)]
+        dist[s] = 0 
+        h = []
+        import heapq 
+        heapq.heappush(h,(0,s))
+        while h :
+            cos , node = heapq.heappop(h)
+            if cos > dist[node]:
                 continue 
-            vis[node] = True
-            u = node  
-            for v,w in adj[node]:
-                if not vis[v] and dist[v] > dist[u] + w :
-                    dist[v] = dist[u] + w 
-                    heapq.heappush(pq,(dist[v],v))
-        maxi = -1 
-        for i in dist:
-            if maxi < i :
-                maxi = i 
-        return maxi if maxi != float('inf') else -1 
+            for ni , wi in adj[node]:
+                if dist[ni] > cos + wi :
+                    dist[ni] = cos + wi
+                    heapq.heappush(h,(cos + wi,ni))
+        ans = -1 
+        for i in range(n):
+            if dist[i] == float('inf'):
+                return -1 
+            else :
+                ans  = max(ans,dist[i])
+        return ans 
+
