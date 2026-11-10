@@ -5,10 +5,11 @@ class Solution:
         i = 0 
         j = n -1 
         while i < m and j >= 0 :
-            if matrix[i][j] == target :
-                return True 
-            elif matrix[i][j] < target :
-                i += 1 
-            else :
+            ele = matrix[i][j]
+            if ele > target :
                 j -= 1 
+            elif ele == target :
+                return True 
+            else :
+                i += 1 
         return False 
