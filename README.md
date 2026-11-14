@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0206-reverse-linked-list](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## DP on Trees
