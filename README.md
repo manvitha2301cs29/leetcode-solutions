@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## DP on Trees
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
