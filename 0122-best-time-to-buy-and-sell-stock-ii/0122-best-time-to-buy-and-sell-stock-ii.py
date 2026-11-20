@@ -5,7 +5,7 @@ class Solution:
         n = len(prices)
         for i in range(1,n):
             if l < prices[i]:
-                 
                 sumi += prices[i] - l 
-            l = prices[i] 
+            l = prices[i]
         return sumi 
+
