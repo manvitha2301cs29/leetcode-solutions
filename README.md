@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [1048-longest-string-chain](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1048-longest-string-chain](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Breadth-First Search
 |  |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bipartite Graph
 |  |
