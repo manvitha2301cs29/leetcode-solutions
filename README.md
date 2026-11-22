@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -487,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0062-unique-paths) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/manvitha2301cs29/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
