@@ -1,14 +1,17 @@
 class Solution:
     def lengthOfLIS(self, nums: list[int]) -> int:
-        n = len(nums)
-        nex = [0]*(n+1)
-        for i in range(n-1,-1,-1):
-            curr = [0]*(n+1)
-            for j in range(i-1,-2,-1):
-                nt = nex[j+1]
-                t = 0 
-                if j == -1 or  nums[i] > nums[j]:
-                    t = nex[i+1] + 1 
-                curr[j+1] = max(t,nt)
-            nex = curr 
-        return nex[0]
+        arr = nums
+        n = len(arr)
+        dp = [1 for i in range(n)]
+        
+        maxi = 0 
+        start = -1 
+        for i in range(n):
+            for p in range(i):
+                if arr[p] < arr[i] and 1 + dp[p] > dp[i]:
+                    dp[i] = 1 + dp[p]
+                    
+            if maxi < dp[i]:
+                maxi = dp[i]
+                start = i
+        return maxi 
